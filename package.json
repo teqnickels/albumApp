@@ -10,7 +10,7 @@
     "eslint-plugin-import": "1.16.0",
     "eslint-plugin-jsx-a11y": "2.2.3",
     "react": "16.2.0",
-    "react-native": "0.53.3",
+    "react-native": "0.70.2",
     "watchman": "^1.0.0"
   },
   "devDependencies": {
